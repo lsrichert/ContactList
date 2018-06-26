@@ -1,3 +1,4 @@
+// these two lines of code tell vs code that this module (contact.js) requires these other two modules in order to properly run.
 const ContactCollectionModule = require("./ContactCollection")
 const ContactListModule = require("./ContactList")
 
